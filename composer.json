@@ -1,0 +1,11 @@
+{
+    "name": "zyq/first",
+    "description": "123",
+    "authors": [
+        {
+            "name": "zhangyongqi",
+            "email": "zhangyongqi@wangcaigu.com"
+        }
+    ],
+    "require": {}
+}
